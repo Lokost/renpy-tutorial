@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 7: Line is indented, but the preceding ATL statement does not expect a block. Please check this line's indentation.
-    zoom .5
-    ^
+File "game/script.rpy", line 18: end of line expected.
+    call main_menu with dissolve
+                   ^
 
-Ren'Py Version: Ren'Py 7.3.5.606
-Tue Dec 08 14:52:39 2020
+Ren'Py Version: Ren'Py 7.4.4.1439
+Wed Jul  7 00:02:03 2021
