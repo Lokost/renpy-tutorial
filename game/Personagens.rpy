@@ -1,20 +1,6 @@
-# Lokost
-image Lokost Normal1 = "Lokost/Novel1-1.png"
-image Lokost Normal2 = "Lokost/Novel2-4.png"
-image Lokost Normal3 = "Lokost/Novel3-2.png"
-image Lokost Piscando1 = "Lokost/Novel1-2.png"
-image Lokost Piscando2 = "Lokost/Novel2-4.png"
-image Lokost Piscando3 = "Lokost/Novel3-1.png"
-image Lokost Piscando4 = "Lokost/Novel4-2.png"
-image Lokost Bravo = "Lokost/Novel1-3.png"
-image Lokost Entediado = "Lokost/Novel1-4.png"
-image Lokost Serio1 = "Lokost/Novel1-5.png"
-image Lokost Serio2 = "Lokost/Novel2-2.png"
-image Lokost Serio3 = "Lokost/Novel4-3.png"
-image Lokost Destraido1 = "Lokost/Novel1-6.png"
-image Lokost Destraido2 = "Lokost/Novel2-1.png"
-image Lokost Destraido3 = "Lokost/Novel3-3.png"
-image Lokost Destraido4 = "Lokost/Novel4-1.png"
-image Lokost OlhandoL = "Lokost/Novel2-3.png"
-
-
+image Lokost normal = 'Lokost/Novel1-1.png'
+image Lokost normal2 = 'Lokost/Novel2-4.png'
+image Lokost normal3 = 'Lokost/Novel3-2.png'
+image Lokost serio = 'Lokost/Novel1-5.png'
+image Lokost serio2 = 'Lokost/Novel2-2.png'
+image Lokost serio3 = 'Lokost/Novel4-3.png'

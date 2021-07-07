@@ -1,19 +1,11 @@
 ﻿# Definição de personagens
-define l = Character("Lokost")
 
-# imagens
-image logo:
-    "logo.png"
-    zoom .2 xalign .5 yalign .5
+define l = Character('Lokost')
 
-
-# Aqui começa o jogo
-label splashscreen:
-    show logo
-    pause 2
-    return
-
+# Aqui começa o joogo
 label start:
-    scene Quarto dia_pcon
-    show Lokost Normal1
-    l "Olá mundo"
+    scene sala dia
+    show Lokost normal
+    l "Olá"
+    l "Meu nome é Lokost"
+    l "Prazer em te conhecer!"
